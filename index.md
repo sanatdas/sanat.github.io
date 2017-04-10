@@ -1,6 +1,9 @@
 ### Data Science Projects
 
-* Project1: Regression Analysis
+* Regression Analysis : Boston House Price Analysis
+
+* Classification : Loan Prediction
+
 
 
 ### Articles
