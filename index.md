@@ -1,8 +1,8 @@
 ### Data Science Projects
 
-* Regression Analysis : Boston House Price Analysis
+* Regression Analysis : Boston House Price Analysis 
 
-* Classification : Loan Prediction
+* Classification : [Loan Prediction](https://github.com/sanatdas/Loan_Prediction)
 
 
 
